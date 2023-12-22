@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 def uniq_add(my_list=[]):
     # Create an empty set to store unique integers
     unique_integers = set()
